@@ -1,0 +1,3 @@
+Fix the hungry snake:
+1.score does not reset after game is done in all three stages 
+2.In level 3 after the game is won fix the error which occurs after pressing the Replay button
